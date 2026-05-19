@@ -89,7 +89,7 @@ ulimit -u 1048576
 wandb offline
 
 
-cd path/to/DelTA
+cd path/to/verl-DelTA
 python3 -m recipe.dapo.main_dapo \
     data.train_files="${TRAIN_FILE}" \
     data.val_files="${TEST_FILE}" \
