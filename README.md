@@ -1,4 +1,5 @@
-
+# DelTA
+[![arXiv](https://img.shields.io/badge/arXiv-2605.21467-red.svg)](https://arxiv.org/abs/2605.21467v1)
 
 ## Installation
 Our code is mainly based on [verl](https://github.com/volcengine/verl). To prepare the environment, please follow these steps:
